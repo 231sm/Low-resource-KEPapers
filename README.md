@@ -289,4 +289,4 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 
 📋 Thank you very much for your interest in our survey work. If you use or extend our survey, please cite the following paper:
 
-The bibtex will come soon
+The bibtex will come soon. 
