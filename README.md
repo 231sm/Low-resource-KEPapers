@@ -227,7 +227,7 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 
 ### Multi-task Learning
 
-#### (1) NER, Named Entity Normalization
+#### (1) NER, Named Entity Normalization (NEN)
 * A Neural Multi-Task Learning Framework to Jointly Model Medical Named Entity Recognition and Normalization (AAAI 2019) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3861)\]
 * MTAAL: Multi-Task Adversarial Active Learning for Medical Named Entity Recognition and Normalization (AAAI 2021) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17714)\]
 * An End-to-End Progressive Multi-Task Learning Framework for Medical Named Entity Recognition and Normalization (ACL 2021) \[[paper](https://aclanthology.org/2021.acl-long.485.pdf)\]
@@ -243,6 +243,9 @@ Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://acl
 
 #### (4) Word Sense Disambiguation (WSD), Event Detection (ED)
 * Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching (EMNLP 2018) \[[paper](https://aclanthology.org/D18-1517.pdf)\]
+
+#### (5) NER, RE, EE & Other Structure Prediction Tasks
+* DeepStruct: Pretraining of Language Models for Structure Prediction (ACL 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-acl.67v2.pdf)\]
 
 
 ### Task Reformulation
