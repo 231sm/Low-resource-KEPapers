@@ -139,6 +139,7 @@
 * Neural Relation Extraction with Multi-lingual Attention (ACL 2017) \[[paper](https://aclanthology.org/P17-1004.pdf)\]
 * Improving Low Resource Named Entity Recognition using Cross-lingual Knowledge Transfer (IJCAI 2018) \[[paper](https://www.ijcai.org/Proceedings/2018/0566.pdf)\]
 * Event Detection via Gated Multilingual Attention Mechanism (AAAI 2018) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11919)\]
+* Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.382.pdf)\]
 * Cross-lingual Transfer Learning for Relation Extraction Using Universal Dependencies (Computer Speech & Language, 2022) \[[paper](https://www.sciencedirect.com/science/article/pii/S0885230821000711)\]
 * Language Model Priming for Cross-Lingual Event Extraction (AAAI 2022) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21307)\]
 
@@ -193,6 +194,8 @@
 * Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks (NAACL 2019) \[[paper](https://aclanthology.org/N19-1306.pdf)\]
 * Relation Adversarial Network for Low Resource Knowledge Graph Completion (WWW 2020) \[[paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380089)\]
 * Graph Learning Regularization and Transfer Learning for Few-Shot Event Detection (SIGIR 2021) \[[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463054)\]
+* LearningToAdapt with Word Embeddings: Domain Adaptation of
+Named Entity Recognition Systems (Information Processing and Management, 2021) \[[paper](https://www.sciencedirect.com/science/article/pii/S0306457321000455)\]
 
 #### (2) Pre-trained Language Representations
 * Matching the Blanks: Distributional Similarity for Relation Learning (ACL 2019) \[[paper](https://aclanthology.org/P19-1279.pdf)\]
@@ -207,6 +210,7 @@
 #### (1) Vanilla Prompt Learning
 * Template-Based Named Entity Recognition Using BART (ACL 2021, Findings) \[[paper](https://aclanthology.org/2021.findings-acl.161.pdf)\]
 * LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.209.pdf)\]
+* COPNER: Contrastive Learning with Prompt Guiding for Few-shot Named Entity Recognition (COLING 2022) \[[paper](https://aclanthology.org/2022.coling-1.222.pdf)\]
 * Template-free Prompt Tuning for Few-shot NER (NAACL 2022) \[[paper](https://aclanthology.org/2022.naacl-main.420.pdf)\]
 * RelationPrompt: Leveraging Prompts to Generate Synthetic Data for
 Zero-Shot Relation Triplet Extraction (ACL 2022, Findings) \[[paper](https://aclanthology.org/2022.findings-acl.5.pdf)\]
