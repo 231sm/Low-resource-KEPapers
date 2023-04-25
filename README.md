@@ -32,7 +32,7 @@
   * [1.2 Multi-modal Augmentation](#Multi-modal-Augmentation)
   * [1.3 Multi-lingual Augmentation](#Multi-lingual-Augmentation)
   * [1.4 Auxiliary Knowledge Enhancement](#Auxiliary-Knowledge-Enhancement)
-* [**2. Exploiting Stronger Models**](#2-Exploiting-Stronger-Models)
+* [**2. Exploiting Stronger Data-Efficient Models**](#2-Exploiting-Stronger-Data-Efficient-Models)
   * [2.1 Meta Learning](#Meta-Learning)
   * [2.2 Transfer Learning](#Transfer-Learning)
   * [2.3 Prompt Learning](#Prompt-Learning)
@@ -154,7 +154,7 @@
 * Leveraging FrameNet to Improve Automatic Event Detection (ACL 2016) \[[paper](https://aclanthology.org/P16-1201.pdf)\]
 * DOZEN: Cross-Domain Zero Shot Named Entity Recognition with Knowledge Graph (SIGIR 2021) \[[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463113)\]
 
-#### (3) Ontology & Rule
+#### (3) Ontology & Logical Rules
 * Logic-guided Semantic Representation Learning for Zero-Shot Relation Classification (COLING 2020) \[[paper](https://aclanthology.org/2020.coling-main.265.pdf)\]
 * OntoED: Low-resource Event Detection with Ontology Embedding (ACL 2021) \[[paper](https://aclanthology.org/2021.acl-long.220.pdf)\]
 * Neuralizing Regular Expressions for Slot Filling (EMNLP 2021) \[[paper](https://aclanthology.org/2021.emnlp-main.747.pdf)\]
@@ -162,7 +162,7 @@
 
 
 
-## 2 Exploiting Stronger Models
+## 2 Exploiting Stronger Data-Efficient Models
 
 ### Meta Learning
 
