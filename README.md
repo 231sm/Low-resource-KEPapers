@@ -107,6 +107,9 @@
 
 ## 📖 Related Surveys and Analysis on Low-Resource IE
 
+<details>
+<summary></summary>
+<pre><code>
 ### Information Extraction
 #### NER
 * A Survey on Recent Advances in Named Entity Recognition from Deep Learning Models (COLING 2018) \[[paper](https://aclanthology.org/C18-1182.pdf)\]
@@ -168,6 +171,8 @@
 * Knowledge Bases and Language Models: Complementing Forces (RuleML+RR, 2023) \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-45072-3_1)\]
 * StructGPT: A General Framework for Large Language Model to Reason over Structured Data (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.574.pdf)\]
 <!--* Knowledge Extraction from Survey Data Using Neural Networks (Procedia Computer Science, 2013) \[[paper](https://www.sciencedirect.com/science/article/pii/S1877050913010995)\]-->
+</code></pre>
+</details>
 
 ### Low-Resource NLP Learning
 * A Survey of Zero-Shot Learning: Settings, Methods, and Applications (TIST, 2019) \[[paper](https://dl.acm.org/doi/10.1145/3293318)\]
