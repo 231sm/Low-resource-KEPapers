@@ -16,6 +16,7 @@
 📖 **Survey Paper**: Information Extraction in Low-Resource Scenarios: Survey and Perspective (2023) 
 
 
+
 ## Content
 
 [**Preliminaries**](#Preliminaries)
@@ -108,7 +109,6 @@
 ## 📖 Related Surveys and Analysis on Low-Resource IE
 
 ### Information Extraction
-
 #### NER
 * A Survey on Recent Advances in Named Entity Recognition from Deep Learning Models (COLING 2018) \[[paper](https://aclanthology.org/C18-1182.pdf)\]
 * A Survey on Deep Learning for Named Entity Recognition (TKDE, 2020) \[[paper](https://ieeexplore.ieee.org/abstract/document/9039685)\]
@@ -135,7 +135,6 @@
 <!--* Low Resource Event Extraction: A Survey (2022) [[paper](https://www.cs.uoregon.edu/Reports/AREA-202210-Lai.pdf)\]-->
 
 #### General IE
-
 **Traditional IE** 
 
 * From Information to Knowledge: Harvesting Entities and Relationships from Web Sources (PODS 2010)  \[[paper](https://dl.acm.org/doi/abs/10.1145/1807085.1807097)\]
@@ -163,6 +162,7 @@
 * Improving Open Information Extraction with Large Language Models: A Study on Demonstration Uncertainty (arXiv, 2023) \[[paper](https://arxiv.org/abs/2309.03433)\]
 * LOKE: Linked Open Knowledge Extraction for Automated Knowledge Graph Construction (arXiv, 2023) \[[paper](https://arxiv.org/abs/2311.09366)\]
 * LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.13168)\]
+* Large Language Models for Generative Information Extraction: A Survey (arXiv, 2023) \[[paper](https://arxiv.org/abs/2312.17617)\]
 * Large Language Models and Knowledge Graphs: Opportunities and Challenges (TGDK, 2023) \[[paper](https://drops.dagstuhl.de/storage/08tgdk/tgdk-vol001/tgdk-vol001-issue001/TGDK.1.1.2/TGDK.1.1.2.pdf)\]
 * Unifying Large Language Models and Knowledge Graphs: A Roadmap (arXiv, 2023) \[[paper](https://arxiv.org/abs/2306.08302)\]
 * Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications (arXiv, 2023) \[[paper](https://arxiv.org/abs/2311.05876)\]
@@ -303,6 +303,7 @@ with Knowledge Bases (WWW 2017) \[[paper](https://dl.acm.org/doi/abs/10.1145/303
 * Consistent Prototype Learning for Few-Shot Continual Relation Extraction (ACL 2023) \[[paper](https://aclanthology.org/2023.acl-long.409.pdf)\]
 * RAPL: A Relation-Aware Prototype Learning Approach for
 Few-Shot Document-Level Relation Extraction (EMNLP 2023) \[[paper](https://aclanthology.org/2023.emnlp-main.316.pdf)\]
+* Density-Aware Prototypical Network for Few-Shot Relation Classification (EMNLP 2023, Findings) \[[paper](https://aclanthology.org/2023.findings-emnlp.162.pdf)\]
 * Improving few-shot relation extraction through semantics-guided learning (Neural Networks, 2023) \[[paper](https://www.sciencedirect.com/science/article/pii/S0893608023006196)\]
 * Generative Meta-Learning for Zero-Shot Relation Triplet Extraction (arXiv, 2023) \[[paper](https://arxiv.org/abs/2305.01920)\]
 
