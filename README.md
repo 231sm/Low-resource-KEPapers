@@ -13,7 +13,7 @@
 
 🤗 We strongly encourage the researchers who want to promote their fantastic work for the community to make pull request and update their papers in this repository! 
 
-📖 **Survey Paper**: Information Extraction in Low-Resource Scenarios: Survey and Perspective (submitted to TACL)
+📖 **Survey Paper**: Information Extraction in Low-Resource Scenarios: Survey and Perspective
 
 
 ## Content
