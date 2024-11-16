@@ -1,5 +1,6 @@
 # Low-resource Information Extraction 🚀
 
+<font color=#FF000 size=4 >***!!!📣 The repository has been redirected to [https://github.com/zjunlp/Low-resource-KEPapers](https://github.com/zjunlp/Low-resource-KEPapers).***</font>
 
 🍎 The repository is a paper set on low-resource information extraction (IE), mainly including NER, RE and EE, which is generally categorized into two paradigms:  
 
@@ -13,7 +14,14 @@
 
 🤗 We strongly encourage the researchers who want to promote their fantastic work for the community to make pull request and update their papers in this repository! 
 
-📖 **Survey Paper**: Information Extraction in Low-Resource Scenarios: Survey and Perspective
+📖 **Survey Paper**: Information Extraction in Low-Resource Scenarios: Survey and Perspective (ICKG 2024) \[[paper](https://arxiv.org/abs/2202.08063)\]
+
+🗂️ **Slides**: 
+
+- Data-Efficient Knowledge Graph Construction, 高效知识图谱构建 ([Tutorial on CCKS 2022](http://sigkg.cn/ccks2022/?page_id=24)) \[[slides](https://drive.google.com/drive/folders/1xqeREw3dSiw-Y1rxLDx77r0hGUvHnuuE)\] 
+- Efficient and Robust Knowledge Graph Construction ([Tutorial on AACL-IJCNLP 2022](https://www.aacl2022.org/Program/tutorials)) \[[paper](https://aclanthology.org/2022.aacl-tutorials.1.pdf), [slides](https://github.com/NLP-Tutorials/AACL-IJCNLP2022-KGC-Tutorial)\] 
+- Open-Environment Knowledge Graph Construction and Reasoning: Challenges, Approaches, and Opportunities ([Tutorial on IJCAI 2023](https://ijcai-23.org/tutorials/))  \[[slides](https://openkg-tutorial.github.io/)\]
+
 
 
 ## Content
@@ -533,6 +541,7 @@ Output for Information Extraction (arXiv, 2024) \[[paper](https://arxiv.org/abs/
 * UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition (ICLR 2024) [[paper](https://openreview.net/forum?id=r65xfUb76p)\]
 * InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction (arXiv, 2023) \[[paper](https://arxiv.org/abs/2304.08085)\]
 * YAYI-UIE: A Chat-Enhanced Instruction Tuning Framework for Universal Information Extraction (arXiv, 2023) \[[paper](https://arxiv.org/abs/2312.15548)\]
+* ChatUIE: Exploring Chat-based Unified Information Extraction using Large Language Models (COLING 2024) \[[paper](https://arxiv.org/abs/2403.05132)\]
 
 ### Fine-Tuning LLM
 * Fine-Tuning GPT Family (OpenAI, 2023) \[[Documentation](https://platform.openai.com/docs/guides/fine-tuning)\]
@@ -544,4 +553,17 @@ Output for Information Extraction (arXiv, 2024) \[[paper](https://arxiv.org/abs/
 
 📋 Thank you very much for your interest in our survey work. If you use or extend our survey, please cite the following paper:
 
-The bibtex will come soon. 
+```bibtex
+@misc{2023_LowResIE,
+    author    = {Shumin Deng and
+                 Yubo Ma and
+                 Ningyu Zhang and
+                 Yixin Cao and
+                 Bryan Hooi},
+    title     = {Information Extraction in Low-Resource Scenarios: Survey and Perspective}, 
+    journal   = {CoRR},
+    volume    = {abs/2202.08063},
+    year      = {2023},
+    url       = {https://arxiv.org/abs/2202.08063}
+}
+```
